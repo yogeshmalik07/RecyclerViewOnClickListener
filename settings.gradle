@@ -1,0 +1,2 @@
+rootProject.name='RecyclerView OnClickListener'
+include ':app'
